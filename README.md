@@ -1,2 +1,2 @@
 # Amazon-Clone-
-Amazon Clone (HTML &amp; CSS)
+Amazon Clone (HTML & CSS)
